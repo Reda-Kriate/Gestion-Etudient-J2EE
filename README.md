@@ -57,7 +57,7 @@ Le projet est organisé selon les principes MVC (Modèle-Vue-Contrôleur) :
 
 
 ## Captures d'écran
-<img width="1440" alt="code" src="https://github.com/user-attachments/assets/b107176c-1f06-4b8b-8418-d740c1ef5dfb" />
+<img width="1440" alt="code" src="https://github.com/user-attachments/assets/0f0696d7-5605-4a80-b76a-c527dabc4fc7" />
 <img width="1440" alt="loginpage" src="https://github.com/user-attachments/assets/071e914f-b5a6-427d-905e-d3c595377e4a" />
 <img width="1439" alt="adminhome" src="https://github.com/user-attachments/assets/fcffbcfb-a941-4fa3-95c8-aaed55ab9ffb" />
 <img width="1440" alt="clienthome" src="https://github.com/user-attachments/assets/5ce1bd83-88fc-452f-9e77-9fad88fee42f" />
